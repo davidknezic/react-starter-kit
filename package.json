@@ -24,6 +24,7 @@
   "homepage": "https://github.com/sventschui/react-starter-kit#readme",
   "devDependencies": {
     "alt": "^0.17.3",
+    "babel-core": "^5.8.25",
     "babel-plugin-react-transform": "^1.1.1",
     "babelify": "^6.1.3",
     "browserify": "^11.0.0",
@@ -42,6 +43,7 @@
     "react-dom": "^0.14.0-rc1",
     "react-proxy": "^1.1.1",
     "react-tap-event-plugin": "^0.1.8",
+    "require-dir": "^0.3.0",
     "run-sequence": "^1.1.2",
     "superagent": "^1.2.0",
     "superagent-promise": "^1.0.3",
